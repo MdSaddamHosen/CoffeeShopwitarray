@@ -1,0 +1,10 @@
+D:\assignmet\CoffeeShop03\CoffeeShopAssignmet03\CoffeeShopAssignmet03\obj\Debug\CoffeeShopAssignmet03.csprojAssemblyReference.cache
+D:\assignmet\CoffeeShop03\CoffeeShopAssignmet03\CoffeeShopAssignmet03\obj\Debug\CoffeeShopAssignmet03.Properties.Resources.resources
+D:\assignmet\CoffeeShop03\CoffeeShopAssignmet03\CoffeeShopAssignmet03\obj\Debug\CoffeeShopAssignmet03.csproj.GenerateResource.cache
+D:\assignmet\CoffeeShop03\CoffeeShopAssignmet03\CoffeeShopAssignmet03\obj\Debug\CoffeeShopAssignmet03.csproj.CoreCompileInputs.cache
+D:\assignmet\CoffeeShop03\CoffeeShopAssignmet03\CoffeeShopAssignmet03\bin\Debug\CoffeeShopAssignmet03.exe.config
+D:\assignmet\CoffeeShop03\CoffeeShopAssignmet03\CoffeeShopAssignmet03\bin\Debug\CoffeeShopAssignmet03.exe
+D:\assignmet\CoffeeShop03\CoffeeShopAssignmet03\CoffeeShopAssignmet03\bin\Debug\CoffeeShopAssignmet03.pdb
+D:\assignmet\CoffeeShop03\CoffeeShopAssignmet03\CoffeeShopAssignmet03\obj\Debug\CoffeeShopAssignmet03.exe
+D:\assignmet\CoffeeShop03\CoffeeShopAssignmet03\CoffeeShopAssignmet03\obj\Debug\CoffeeShopAssignmet03.pdb
+D:\assignmet\CoffeeShop03\CoffeeShopAssignmet03\CoffeeShopAssignmet03\obj\Debug\CoffeeShopAssignmet03.CoffeeShop3.resources
